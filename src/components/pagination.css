@@ -1,0 +1,21 @@
+.dot_div {
+  text-align: center;
+  padding: 2rem .1rem;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    padding: 1rem;
+    margin: .2rem .5rem;
+    cursor: pointer;
+  }
+
+  .active {
+    background-color: aqua;
+    box-shadow: inset;
+  }
